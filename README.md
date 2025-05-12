@@ -1,2 +1,2 @@
 # Conversor_de_Moedas
-Programa desenvolvido na linguagem java para converter valores de diferentes moedas e assim com o uso de uma Api obter as taxas de câmbio atualizadas
+Aplicação Desenvolvido na Linguagem Java para Converter Valores de Diferentes Moedas e Assim com o uso de uma API Obter as Taxas de Câmbio Atualizadas
